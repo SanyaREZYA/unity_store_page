@@ -4,13 +4,13 @@
     "description": "Heavy fantasy war hammer model for RPG games.",
     "image": "assets/images/Preview_Hammer.png",
     "model": "assets/models/hammer.glb",
-    "link": "UNITY_ASSET_STORE_LINK"
+    "link": "https://assetstore.unity.com/packages/3d/props/weapons/dwarden-war-hammer-355708"
   },
   {
     "name": "Iron Barrel",
     "description": "Industrial barrel prop for environments and scenes.",
     "image": "assets/images/barrel_preview.png",
     "model": "assets/models/iron_barrel.glb",
-    "link": "UNITY_ASSET_STORE_LINK"
+    "link": "https://assetstore.unity.com/packages/3d/props/rusty-toxic-barrel-355842"
   }
 ]
